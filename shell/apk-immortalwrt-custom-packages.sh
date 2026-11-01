@@ -3,10 +3,10 @@
 # 启用第三方插件时取消对应注释
 
 # adguardhome广告拦截 (adguardhome)
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES adguardhome luci-app-adguardhome luci-i18n-adguardhome-zh-cn"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES adguardhome luci-app-adguardhome luci-i18n-adguardhome-zh-cn"
 
 #晶晨宝盒 (amlogic)
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-amlogic luci-i18n-amlogic-zh-cn"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-amlogic luci-i18n-amlogic-zh-cn"
 
 # argon主题 (argon)
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-theme-argon luci-app-argon-config luci-i18n-argon-config-zh-cn"
@@ -15,34 +15,34 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-theme-argon luci-app-argon-config luci-i1
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-aurora-config luci-theme-aurora luci-i18n-aurora-config-zh-cn"
 
 # bandix-plus网络流量监控 (bandix-plus)
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES bandix-plus luci-app-bandix-plus luci-i18n-bandix-plus-zh-cn"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES bandix-plus luci-app-bandix-plus luci-i18n-bandix-plus-zh-cn"
 
 # bandix网络流量监控 (bandix)
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES bandix luci-app-bandix luci-i18n-bandix-zh-cn"
 
 # clashoo代理面板 (clashoo)
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES clashoo luci-app-clashoo luci-i18n-clashoo-zh-cn"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES clashoo luci-app-clashoo luci-i18n-clashoo-zh-cn"
 
 # CPU状态 (cpustatus)
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-cpu-status"
 
 # daede代理面板 (daede)
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES dae daed luci-app-daede"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES dae daed luci-app-daede"
 
 # Easymesh无线组网(easymesh)
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-easymesh luci-i18n-easymesh-zh-cn"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-easymesh luci-i18n-easymesh-zh-cn"
 
 # lucky内网穿透 (lucky)
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES lucky luci-app-lucky luci-i18n-lucky-zh-cn"
 
 # MosDNS转发器 (MosDNS)
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES mosdns luci-app-mosdns luci-i18n-mosdns-zh-cn"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES mosdns luci-app-mosdns luci-i18n-mosdns-zh-cn"
 
 # netwizard网络设置向导 (netwizard)
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-netwizard luci-i18n-netwizard-zh-cn"
 
 # nikki代理面板 (nikki)
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES nikki luci-app-nikki luci-i18n-nikki-zh-cn"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES nikki luci-app-nikki luci-i18n-nikki-zh-cn"
 
 # Online-upgrade在线升级 (online-upgrade)
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-online-upgrade luci-i18n-online-upgrade-zh-cn"
@@ -64,13 +64,13 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-poweroff luci-i18n-poweroff-zh-cn"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES rtp2httpd luci-app-rtp2httpd luci-i18n-rtp2httpd-zh-cn"
 
 # run插件安装工具 (run)
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-run"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-run"
 
 # Netspeedtest网速测试 (netspeedtest)
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-netspeedtest luci-i18n-netspeedtest-zh-cn"
 
 # Turboacc网络加速 (turboacc)
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-turboacc luci-i18n-turboacc-zh-cn"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-turboacc luci-i18n-turboacc-zh-cn"
 
 # tailscaleVPN代理 (tailscale)
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES tailscale luci-app-tailscale luci-i18n-tailscale-zh-cn"
