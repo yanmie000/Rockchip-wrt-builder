@@ -9,7 +9,7 @@
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-amlogic luci-i18n-amlogic-zh-cn"
 
 # argon主题 (argon)
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-theme-argon luci-app-argon-config luci-i18n-argon-config-zh-cn"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-theme-argon luci-app-argon-config luci-i18n-argon-config-zh-cn"
 
 # material (material)
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-theme-material"
@@ -57,8 +57,8 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-online-upgrade luci-i18n-online-upgra
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-partexp luci-i18n-partexp-zh-cn"
 
 # passwall代理面板 (passwall)
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-passwall luci-i18n-passwall-zh-cn"
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES sing-box chinadns-ng geoview shadowsocksr-libev-ssr-local shadowsocksr-libev-ssr-redir"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-passwall luci-i18n-passwall-zh-cn"
+#CUSTOM_PACKAGES="$CUSTOM_PACKAGES sing-box chinadns-ng geoview shadowsocksr-libev-ssr-local shadowsocksr-libev-ssr-redir"
 
 # poweroff关机 (poweroff)
 #CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-poweroff luci-i18n-poweroff-zh-cn"
